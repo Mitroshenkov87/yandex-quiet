@@ -1,4 +1,4 @@
-﻿# Yandex Quiet
+# Yandex Quiet
 
 [![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-blue)](https://github.com/PowerShell/PowerShell)
 [![Platform](https://img.shields.io/badge/Platform-Windows-blue)](https://www.microsoft.com/windows)
@@ -136,4 +136,4 @@ Restore:
 
 ## Лицензия
 
-MIT. См. [LICENSE](LICENSE).
+[MIT](LICENSE) — Copyright (c) 2026 Aleksandr Mitroshenkov.
